@@ -1,7 +1,0 @@
-{
-  "name": "avicola-app",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular"
-}
